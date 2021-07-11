@@ -279,7 +279,7 @@ function lib:MainWindow(text)
 	title.Position = UDim2.new(0.172839507, 0, 0.0558659211, 0)
 	title.Size = UDim2.new(0, 106, 0, 28)
 	title.Font = Enum.Font.GothamSemibold
-	title.Text = "Ghost Client"
+	title.Text = "BlueFire Hub"
 	title.TextColor3 = Color3.fromRGB(255, 255, 255)
 	title.TextSize = 18.000
 	title.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
